@@ -1,7 +1,7 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 export const fetchProduct = createAsyncThunk("card/fetchProduct", async () => {
   try {
-    const apiUrl = "http://localhost:5173/db.json";
+    const apiUrl = "http://electornic-store.vercel.app/db.json";
     const response = await fetch(apiUrl);
     if (!response.ok) {
       throw new Error("Failed to fetch products");
