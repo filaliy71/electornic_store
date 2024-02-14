@@ -1,0 +1,16 @@
+.product-card img {
+  width: auto;
+  height: auto;
+  image-rendering: optimizeQuality;
+}
+body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+.cvc {
+  margin: 0;
+  padding: 0;
+}
+.breadcrumbs {
+  margin-top: 20px;
+  margin-left: 5px;
+}

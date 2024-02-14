@@ -1,0 +1,137 @@
+{
+  "product": [
+    {
+      "id": 11,
+      "name": "Asus ROG Zephyrus G14",
+      "description": "Compact gaming laptop with AMD Ryzen 9 and NVIDIA RTX 3060.",
+      "price": 1499.99,
+      "currency": "USD",
+      "category": "Laptops",
+      "availability": true,
+      "image": "/src/assets/Asus-ROG.jpeg",
+      "rating": 4.5
+    },
+    {
+      "id": 12,
+      "name": "iPhone SE (2022)",
+      "description": "Affordable yet powerful iPhone with A15 Bionic chip.",
+      "price": 499.99,
+      "currency": "USD",
+      "category": "Phones",
+      "availability": true,
+      "image": "/src/assets/iphone-se.jpeg",
+      "rating": 4.8
+    },
+    {
+      "id": 13,
+      "name": "Dell Alienware m15 R5",
+      "description": "High-performance gaming laptop with AMD Ryzen 9 and RTX 3070.",
+      "price": 1999.99,
+      "currency": "USD",
+      "category": "Laptops",
+      "availability": false,
+      "image": "/src/assets/dell.png",
+      "rating": 4.2
+    },
+    {
+      "id": 14,
+      "name": "Samsung Galaxy Z Flip 3",
+      "description": "Foldable smartphone with a stylish design and innovative features.",
+      "price": 1099.99,
+      "currency": "USD",
+      "category": "Phones",
+      "availability": true,
+      "image": "/src/assets/z-flip.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 15,
+      "name": "MSI Prestige 14",
+      "description": "Slim and powerful laptop designed for content creators.",
+      "price": 1299.99,
+      "currency": "USD",
+      "category": "Laptops",
+      "availability": true,
+      "image": "/src/assets/msi-prestige.jpg",
+      "rating": 4.4
+    },
+    {
+      "id": 16,
+      "name": "Google Pixel 6 Pro",
+      "description": "Premium Pixel smartphone with a large AMOLED display.",
+      "price": 899.99,
+      "currency": "USD",
+      "category": "Phones",
+      "availability": true,
+      "image": "src/assets/pixel6.jpeg",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "name": "MacBook Air M2",
+      "description": "Ultra-thin and lightweight laptop with Apple's M2 chip.",
+      "price": 1299.99,
+      "currency": "USD",
+      "category": "Laptops",
+      "availability": true,
+      "image": "/src/assets/m2.jpg",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "name": "Google Pixel 7",
+      "description": "Latest Pixel smartphone with top-notch camera and Android 13.",
+      "price": 899.99,
+      "currency": "USD",
+      "category": "Phones",
+      "availability": true,
+      "image": "/src/assets/pixel-7.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 7,
+      "name": "HP Spectre x360",
+      "description": "Premium 2-in-1 laptop with a 4K OLED display.",
+      "price": 1499.99,
+      "currency": "USD",
+      "category": "Laptops",
+      "availability": false,
+      "image": "/src/assets/HP Spectre.jpg",
+      "rating": 4.0
+    },
+    {
+      "id": 8,
+      "name": "OnePlus 9",
+      "description": "OnePlus flagship phone with Hasselblad camera technology.",
+      "price": 699.99,
+      "currency": "USD",
+      "category": "Phones",
+      "availability": true,
+      "image": "/src/assets/onePlus9.jpg",
+      "rating": 3.1
+    },
+    {
+      "id": 9,
+      "name": "Acer Predator Helios 300",
+      "description": "Gaming laptop with NVIDIA GeForce RTX 3070 graphics.",
+      "price": 1799.99,
+      "currency": "USD",
+      "category": "Laptops",
+      "availability": true,
+      "image": "/src/assets/Acer-Predator-Helios-300.jpg",
+      "rating": 4.1
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Mi 11",
+      "description": "Feature-packed smartphone from Xiaomi with Snapdragon 888.",
+      "price": 599.99,
+      "currency": "USD",
+      "category": "Phones",
+      "availability": false,
+      "image": "/src/assets/Mi11.jpg",
+      "rating": 2.1
+    }
+  ],
+  "categories": [{ "name": "Laptops" }, { "name": "Phones" }]
+}
