@@ -2,7 +2,7 @@ import { useLayoutEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { HiPencilAlt } from "react-icons/hi";
-import EditPassModal from "./editPassModal";
+import EditPassModal from "./EditPassModal";
 
 function Profile() {
   const isAuth = useSelector((state) => state.auth.isAuth);
