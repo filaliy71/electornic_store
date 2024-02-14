@@ -8,7 +8,7 @@
       "currency": "USD",
       "category": "Laptops",
       "availability": true,
-      "image": "assets/Asus-ROG.jpeg",
+      "image": "https://electornic-store.vercel.app/assets/Asus-ROG.jpeg",
       "rating": 4.5
     },
     {
@@ -19,7 +19,7 @@
       "currency": "USD",
       "category": "Phones",
       "availability": true,
-      "image": "assets/iphone-se.jpeg",
+      "image": "https://electornic-store.vercel.app/assets/iphone-se.jpeg",
       "rating": 4.8
     },
     {
@@ -30,7 +30,7 @@
       "currency": "USD",
       "category": "Laptops",
       "availability": false,
-      "image": "assets/dell.png",
+      "image": "https://electornic-store.vercel.app/assets/dell.png",
       "rating": 4.2
     },
     {
@@ -41,7 +41,7 @@
       "currency": "USD",
       "category": "Phones",
       "availability": true,
-      "image": "assets/z-flip.jpg",
+      "image": "https://electornic-store.vercel.app/assets/z-flip.jpg",
       "rating": 4.7
     },
     {
@@ -52,7 +52,7 @@
       "currency": "USD",
       "category": "Laptops",
       "availability": true,
-      "image": "assets/msi-prestige.jpg",
+      "image": "https://electornic-store.vercel.app/assets/msi-prestige.jpg",
       "rating": 4.4
     },
     {
@@ -63,7 +63,7 @@
       "currency": "USD",
       "category": "Phones",
       "availability": true,
-      "image": "assets/pixel6.jpeg",
+      "image": "https://electornic-store.vercel.app/assets/pixel6.jpeg",
       "rating": 4.6
     },
     {
@@ -74,7 +74,7 @@
       "currency": "USD",
       "category": "Laptops",
       "availability": true,
-      "image": "assets/m2.jpg",
+      "image": "https://electornic-store.vercel.app/assets/m2.jpg",
       "rating": 5
     },
     {
@@ -85,7 +85,7 @@
       "currency": "USD",
       "category": "Phones",
       "availability": true,
-      "image": "assets/pixel-7.jpg",
+      "image": "https://electornic-store.vercel.app/assets/pixel-7.jpg",
       "rating": 4.5
     },
     {
@@ -96,7 +96,7 @@
       "currency": "USD",
       "category": "Laptops",
       "availability": false,
-      "image": "assets/HP Spectre.jpg",
+      "image": "https://electornic-store.vercel.app/assets/HP Spectre.jpg",
       "rating": 4.0
     },
     {
@@ -107,7 +107,7 @@
       "currency": "USD",
       "category": "Phones",
       "availability": true,
-      "image": "assets/onePlus9.jpg",
+      "image": "https://electornic-store.vercel.app/assets/onePlus9.jpg",
       "rating": 3.1
     },
     {
@@ -118,7 +118,7 @@
       "currency": "USD",
       "category": "Laptops",
       "availability": true,
-      "image": "assets/Acer-Predator-Helios-300.jpg",
+      "image": "https://electornic-store.vercel.app/assets/Acer-Predator-Helios-300.jpg",
       "rating": 4.1
     },
     {
@@ -129,7 +129,7 @@
       "currency": "USD",
       "category": "Phones",
       "availability": false,
-      "image": "assets/Mi11.jpg",
+      "image": "https://electornic-store.vercel.app/assets/Mi11.jpg",
       "rating": 2.1
     }
   ],
