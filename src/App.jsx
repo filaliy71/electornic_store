@@ -15,6 +15,7 @@ function App() {
   useEffect(() => {
     dispatch(fetchProduct());
   }, [dispatch]);
+  
   return (
     <Routes>
       <Route path="/" element={<Layout />}>

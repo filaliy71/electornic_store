@@ -1,4 +1,4 @@
-import star from "/src/assets/SvgStar.svg";
+import star from "/assets/SvgStar.svg";
 
 function OneCard({ item, handleCart }) {
   return (

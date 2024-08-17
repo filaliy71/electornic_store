@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { Sort, cart, category, rating } from "../store/cardsSlice";
 import OneCard from "./OneCard";
-import star from "/src/assets/SvgStar.svg";
+import star from "/assets/SvgStar.svg";
 import Modal from "./Modal";
 
 const sortOptions = [
