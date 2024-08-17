@@ -87,7 +87,7 @@ export default function Header() {
             <div className="w-10 rounded-full">
               <img
                 alt="Tailwind CSS Navbar component"
-                src="src/assets/vector.jpg"
+                src="/assets/vector.jpg"
               />
             </div>
           </label>
